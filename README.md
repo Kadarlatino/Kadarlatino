@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Alexander Malyshev aka @kadario
-- 👀 I’m interested in Javascritp, React, Vue, PHP
-- 🌱 I’m currently learning Rust, GraphQL, NuxtJS, SSR
+- 👋👽 Hello Earth!!! I’m Alexander Malyshev aka @kadario
+- 👀 I’m interested in Javascritp, React, Vue, Rust
+- 🌱 I’m currently learning Rust, GraphQL, SSR, Bevy
 - 📫 How to reach me - alex.mallyshevgmail.com, skype - kraybro, telegram: @kadarkadario
 
 <!---
