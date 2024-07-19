@@ -2,9 +2,11 @@
 - 👀 I’m interested in Javascritp, React, Vue, Rust
 - 🌱 I’m currently learning Rust, GraphQL, SSR, Bevy
 - 📫 How to reach me - alex.mallyshevgmail.com, telegram: @kadarkadario
-- ![alt text](https://www.codewars.com/users/Kadario/badges/large)  
+
 
 <!---
 Kadario is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![alt text](https://www.codewars.com/users/Kadario/badges/large)
