@@ -9,4 +9,6 @@ Kadario is a ✨ special ✨ repository because its `README.md` (this file) appe
 You can click the Preview link to take a look at your changes.
 --->
 
-[<img src="https://www.codewars.com/users/Kadario/badges/large">](https://www.codewars.com/users/Kadario)
+
+
+[<img src="https://www.codewars.com/users/Kadario/badges/small">](https://www.codewars.com/users/Kadario)
